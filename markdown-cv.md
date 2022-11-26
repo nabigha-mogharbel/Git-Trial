@@ -1,4 +1,5 @@
 # Nabigha Mogharbel
+> Molecular Biologist, full-stack developer in the making.
 ---
 
 
@@ -48,3 +49,4 @@
 ## Contact
 **Phone number**: +961 70 514 028 \
 **Email**: nabighamogharbel@gmail.com \
+**GitHub**: [Nabigha Mogharbel](https://github.com/nabigha-mogharbel)
